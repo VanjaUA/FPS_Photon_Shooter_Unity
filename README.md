@@ -1,5 +1,5 @@
-# FPS_Shooter_Unity
-Small 3d fps shooter project
+# FPS_Photon_Shooter_Unity
+Small 3d fps multiplayer shooter project using Photon
 
 Controls:
 WASD for movement,
