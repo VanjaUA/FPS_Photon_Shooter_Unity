@@ -5,7 +5,7 @@ Controls:
 WASD for movement,
 Left mouse button to shoot and right button to zoom,
 Shift to sprint,
-1,2,3 and mouse scroll tp change weapon,
+1,2,3 and mouse scroll to change weapon,
 Tab to open leaderboard,
 Esc to open options menu,
 
